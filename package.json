@@ -1,6 +1,6 @@
 {
   "name": "vue2-drag-directive",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "Drag command support for vueJS2",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,7 @@
     "directive"
   ],
   "author": "XinCheng <xchaoyunlai@163.com>",
+  "homepage": "https://github.com/bcdxc/vue2-drag-directive#readme",
   "license": "MIT",
   "devDependencies": {
     "vue": "^2.0.0"
