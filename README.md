@@ -1,4 +1,4 @@
-# vue-drag-directive  [![](https://img.shields.io/npm/v/vue2-drag-directive.svg)](https://www.npmjs.com/package/vue2-drag-directive)
+# vue2-drag-directive  [![](https://img.shields.io/npm/v/vue2-drag-directive.svg)](https://www.npmjs.com/package/vue2-drag-directive)
 
 基于 vue.js 2.x 的拖动指令
 
